@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 cxgbvdsfhh
 
 hio
+=======
+cxgbvdsfhh gai kjanan
+>>>>>>> 78640daa5eb1b01a1914f0b8b452e7d57229e3d4
